@@ -1,0 +1,35 @@
+{
+    "generator-jhipster": {
+        "promptValues": {
+            "packageName": "com.vinamra"
+        },
+        "jhipsterVersion": "5.8.2",
+        "applicationType": "monolith",
+        "baseName": "tasks",
+        "packageName": "com.vinamra",
+        "packageFolder": "com/vinamra",
+        "serverPort": "8080",
+        "authenticationType": "jwt",
+        "cacheProvider": "ehcache",
+        "enableHibernateCache": true,
+        "websocket": false,
+        "databaseType": "sql",
+        "devDatabaseType": "h2Memory",
+        "prodDatabaseType": "mysql",
+        "searchEngine": false,
+        "messageBroker": false,
+        "serviceDiscoveryType": false,
+        "buildTool": "maven",
+        "enableSwaggerCodegen": false,
+        "jwtSecretKey": "ZTdkNmJmNWYxY2Q2MTVkMTE2NDlhZjFjNTEzNDdiODVjYmQ3MzA0MzFjNmNmYmU1Mjg0ZjJhMjc5NTY2MDU1MzE3NDNmNjViNmEyYzcwMWI0ZWFkN2FhNTc4ZmNjYmJiMzA2OTc5MGE5MmQ2MGU1YTExYjdjNWRmNDlmMjBkMGY=",
+        "clientFramework": "angularX",
+        "useSass": false,
+        "clientPackageManager": "npm",
+        "testFrameworks": [],
+        "jhiPrefix": "jhi",
+        "entitySuffix": "",
+        "dtoSuffix": "DTO",
+        "otherModules": [],
+        "enableTranslation": false
+    }
+}
